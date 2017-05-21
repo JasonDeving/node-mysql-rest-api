@@ -1,4 +1,7 @@
 # node-mysql-rest-api
-mysql rest api with node
 
-simple mysql rest api
+>git pull
+
+turn on your mysql server
+
+Use example sql file to create a table and insert data into the database
